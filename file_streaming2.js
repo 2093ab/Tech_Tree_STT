@@ -7,7 +7,7 @@ const client = new speech.SpeechClient();
 
 async function start() {
 
-const filename = './voice.flac';
+const filename = './resources/voice.flac';
 const encoding = 'FLAC';
 const sampleRateHertz = 44100;
 const languageCode = 'ko-KR';
