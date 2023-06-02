@@ -1,3 +1,5 @@
 node_modules/
 tech-tree-key.json
 .env
+.DS_Store
+tmp/
